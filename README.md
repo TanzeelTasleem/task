@@ -11,7 +11,7 @@ Ensure you have Node.js installed on your machine. You can download it [here](ht
 If you are cloning the repository from GitHub, follow these steps:
 
 ```bash
-git clone [repository_url]
-cd [repository_directory]
+git clone [https://github.com/TanzeelTasleem/task]
+cd task
 node index.js
 ```
